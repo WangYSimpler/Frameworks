@@ -18,3 +18,6 @@ org.springframework.transaction-3.0.7.RELEASE--->为JDBC、Hibernate、JDO、JPA等提
 org.springframework.web.portlet-3.0.7.RELEASE--->基于protlet的MVC实现
 org.springframework.web.servlet-3.0.7.RELEASE--->基于servlet的MVC实现
 org.springframework.web.struts-3.0.7.RELEASE--->整合Struts的时候的支持
+
+///spring 注解链接
+http://www.cnblogs.com/xdp-gacl/p/3495887.html
