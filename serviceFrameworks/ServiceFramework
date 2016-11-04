@@ -1,2 +1,14 @@
  创建一个services 步骤
    url：http://www.cnblogs.com/yisheng163/p/4524808.html?utm_source=tuicool
+
+
+
+/**********===========这是个例子=========*******************/
+   http://10.35.142.69/psb/GbzdSjzxService?wsdl
+
+E:\\WorkSpace\\webServiceDemo\\src
+
+
+wsimport -s E:\\WorkSpace\\webServiceDemo\\src -p com.simple.platform.client -keep http://10.35.142.69/psb/GbzdSjzxService?wsdl
+
+/**********====================*******************/
