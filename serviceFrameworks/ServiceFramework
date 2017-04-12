@@ -9,6 +9,6 @@
 E:\\WorkSpace\\webServiceDemo\\src
 
 
-wsimport -s E:\\WorkSpace\\webServiceDemo\\src -p com.simple.platform.client -keep http://10.35.142.69/psb/GbzdSjzxService?wsdl
+wsimport -s D:\workspace\TheClient\src -p com.simple.platform.client -keep http://localhost:9999/Service/GepmSaveData?wsdl
 
 /**********====================*******************/
